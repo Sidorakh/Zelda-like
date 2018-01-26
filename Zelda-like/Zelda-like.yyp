@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0196a11f-d816-45ab-903b-b61d3cb9e31c",
+            "Value": {
+                "id": "6b2d100d-8de5-4e3d-8dee-f73ef522976b",
+                "resourcePath": "sprites\\spr_player_idle_right\\spr_player_idle_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09128cf3-cb46-4e77-899a-ab9f7ee5f4f2",
+            "Value": {
+                "id": "3780ce15-af07-499f-8b3f-9a07a78ffd88",
+                "resourcePath": "sprites\\spr_player_idle_down\\spr_player_idle_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0cc498b1-a331-46b3-95c6-a096fb874b34",
             "Value": {
                 "id": "d83d438a-1af5-4b47-b5a2-a3a4090b7ae2",
@@ -79,6 +95,22 @@
             }
         },
         {
+            "Key": "772ad43f-b238-4e24-b06b-e1acab0a3329",
+            "Value": {
+                "id": "e64c45d6-a3a4-49f5-b62b-65e27d62cecd",
+                "resourcePath": "sprites\\spr_player_idle_up\\spr_player_idle_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7985a002-1438-44c5-b9c0-324f95d4a2c2",
+            "Value": {
+                "id": "d534d19e-a014-4d4e-8f6c-8502d3ef656d",
+                "resourcePath": "sprites\\spr_player_idle_left\\spr_player_idle_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79d1b5a3-d4af-4ed2-8dbd-ec0348fc71bf",
             "Value": {
                 "id": "c8b0022c-5a99-4900-8b34-9910adc17852",
@@ -92,6 +124,14 @@
                 "id": "75db92d8-d920-4c3d-9c56-06dbb59ec85b",
                 "resourcePath": "views\\810f99cb-1724-4a3a-a038-46483cad47a6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "6975c1b3-ad24-4aa0-8941-ce9cd71a6b53",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -164,6 +204,14 @@
                 "id": "3eca7424-785d-4068-a469-807951fc54c7",
                 "resourcePath": "views\\e26fd113-042f-4ee9-86b2-361e477d7047.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "190c2e49-cbfd-44c4-8cf5-e7c3fd130f69",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
